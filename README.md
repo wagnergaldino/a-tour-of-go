@@ -1,1 +1,1 @@
-# Exercícios do site A Tour Of Go
+# Exercícios e prática de conceitos do site A Tour Of Go
